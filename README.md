@@ -39,6 +39,10 @@ The project aimed to answer the following questions:
 
 ---
 
+## Dashboard Overview
+- Full Dashboard.png
+
+
 ## Dashboard Features
 
 ### Executive KPI Overview
