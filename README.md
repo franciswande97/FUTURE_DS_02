@@ -39,10 +39,6 @@ The project aimed to answer the following questions:
 
 ---
 
-## Dashboard Overview
-- Full Dashboard.png
-
-
 ## Dashboard Features
 
 ### Executive KPI Overview
@@ -69,6 +65,9 @@ The project aimed to answer the following questions:
 - Interactive exploration of customer segments
 
 ---
+
+## Dashboard Preview
+![Dashboard Screenshot](FullDashboard.png)
 
 ## Key Insights
 
